@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Usuarios UAC</string>
+    <string name="codigo">Código</string>
+    <string name="nombre">Nombre</string>
+    <string name="programa">Programa</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="listado">Listado</string>
+</resources>
